@@ -1,0 +1,14 @@
+.textbox {
+  text-align: center;
+  margin: 50px auto;
+}
+.textbox p {
+  color: #7a7777;
+  width: 40%;
+  margin: 20px auto;
+}
+.txt {
+  font-weight: 400;
+  font-size: 56px;
+  font-family: "Work Sans";
+}
